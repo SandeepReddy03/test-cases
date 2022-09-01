@@ -1,0 +1,22 @@
+.list-button {
+  background-color: transparent;
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #fff;
+  margin-right: 20px;
+}
+.back-color {
+  background-color: rgb(185, 142, 62);
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: #fff;
+  margin-right: 20px;
+}

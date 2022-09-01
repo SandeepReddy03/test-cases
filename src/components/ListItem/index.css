@@ -1,0 +1,21 @@
+.list-item-element {
+  width: 75%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #323f4b;
+  margin-top: 10px;
+}
+.button-ele {
+  background-color: rgb(207, 241, 137);
+  border: none;
+  color: black;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+.paragraph {
+  color: #fff;
+}
